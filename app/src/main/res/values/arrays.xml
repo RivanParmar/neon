@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Arrays to be used in their respective selection dialogs when comparing benchmarks. -->
+    <string-array name="filters_list">
+        <item>@string/filter_grayscale</item>
+        <item>@string/filter_invert</item>
+        <item>@string/filter_brightness</item>
+        <item>@string/filter_contrast</item>
+        <item>@string/filter_sepia</item>
+    </string-array>
+
+    <string-array name="languages_list">
+        <item>@string/lang_name_java</item>
+        <item>@string/lang_name_asm</item>
+    </string-array>
+</resources>

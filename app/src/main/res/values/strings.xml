@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Neon</string>
+    <string name="open_image">Open Image</string>
+    <string name="content_description_open">Open Image</string>
+    <string name="analytics">Analytics</string>
+    <string name="content_description_analytics">Show analytics</string>
+
+    <!-- List of all the filters that can be applied. -->
+    <string name="filter_original">Original</string>
+    <string name="filter_grayscale">Grayscale</string>
+    <string name="filter_invert">Invert</string>
+    <string name="filter_brightness">Brightness</string>
+    <string name="filter_contrast">Contrast</string>
+    <string name="filter_sepia">Sepia</string>
+
+    <!-- Dialog related strings. -->
+    <string name="filter_selection_dialog_title">Select filter(s)</string>
+    <string name="language_selection_dialog_title">Select language(s)</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Button strings -->
+    <string name="adjust_filter">Adjust Filter</string>
+    <string name="benchmark_individual">Benchmark Individual</string>
+    <string name="compare_benchmarks">Compare Benchmarks</string>
+    <string name="save_image">Save Image</string>
+    <string name="reset">Reset</string>
+
+    <string name="lang_name_java">Java</string>
+    <string name="lang_name_asm">Assembly</string>
+
+    <!-- Adjust parameter strings. -->
+    <string name="filter_original_no_params_text">No adjustable parameters for Original</string>
+    <string name="filter_no_params_text">Not parameters defined for %s</string>
+    <string name="red_coefficient">Red Coefficient</string>
+    <string name="green_coefficient">Green Coefficient</string>
+    <string name="blue_coefficient">Blue Coefficient</string>
+    <string name="slider_negative_button_text">-</string>
+    <string name="slider_positive_button_text">+</string>
+
+    <string name="adjust">Adjust</string>
+    <string name="adjust_brightness_value_text">Please adjust the brightness value!</string>
+    <string name="adjust_contrast_value_text">Please adjust the contrast value!</string>
+
+    <!-- Analytics strings. -->
+    <string name="benchmark_analytics">Benchmark Analytics</string>
+    <string name="select_filter_chips_text">Select filters and languages to view data.</string>
+    <string name="analytics_no_data">No data for selected filters/languages.</string>
+    <string name="analytics_no_benchmark">No benchmark data available.</string>
+
+    <string name="select_image_text">Select an image to get started!</string>
+
+    <string name="filter_preview">Filter preview</string>
+</resources>
