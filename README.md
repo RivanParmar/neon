@@ -20,7 +20,7 @@ To build the app from source:
 **Note**: An AArch64 (Arm®v8-A 64-bit) device or emulator is needed to run the app.
 
 # 📖 Assembly Implementation Details
-For in-depth documentation on how each filter has been implemented using Arm® Assembly, please refer to the [assembly implementation doc]().
+For in-depth documentation on how each filter has been implemented using Arm® Assembly, please refer to the [assembly implementation doc](Assembly_Impl_Doc.md).
 
 # 💡 Potential Future Filters
 A list of potential filters that can be implemented using Arm® Assembly include:
