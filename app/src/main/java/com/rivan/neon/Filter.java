@@ -22,12 +22,7 @@ public enum Filter {
     INVERT(R.string.filter_invert, null),
     BRIGHTNESS(R.string.filter_brightness, BrightnessFilterParams.class),
     CONTRAST(R.string.filter_contrast, ContrastFilterParams.class),
-    SEPIA(R.string.filter_sepia, null),
-    /*BOX_BLUR(R.string.filter_box_blur),
-    EDGE_DETECTION(R.string.filter_edge_detection),
-    SHARPEN(R.string.filter_sharpen),
-    THRESHOLD(R.string.filter_threshold),
-    GAUSSIAN(R.string.filter_gaussian)*/;
+    SEPIA(R.string.filter_sepia, null);
 
     private final int titleRes;
 
