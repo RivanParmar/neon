@@ -1,5 +1,5 @@
 # Neon
-This is an Android application built with Java that demonstrates the use of **Arm Assembly** (leveraging **Arm® Neon™** SIMD technology) for high-performance image processing filters. C++ acts as middleware, bridging the Java application layer and the low-level Assembly implementations.
+This is an Android application built with Java that demonstrates the use of **Arm® Assembly** (leveraging **Arm® Neon™** SIMD technology) for high-performance image processing filters. C++ acts as middleware, bridging the Java application layer and the low-level Assembly implementations.
 
 
 # ✨ Features
@@ -10,7 +10,7 @@ This is an Android application built with Java that demonstrates the use of **Ar
 - Save the filtered images.
 
 # ⚒️ Building
-You can try out the app by downloading it directly from the [Releases section]().
+You can try out the app by downloading it directly from the [Releases section](https://www.github.com/RivanParmar/neon/releases).
 
 To build the app from source:
 1. Clone the repository.
@@ -20,10 +20,10 @@ To build the app from source:
 **Note**: An AArch64 (Arm®v8-A 64-bit) device or emulator is needed to run the app.
 
 # 📖 Assembly Implementation Details
-For in-depth documentation on how each filter has been implemented using Arm Assembly, please refer to the [assembly implementation doc]().
+For in-depth documentation on how each filter has been implemented using Arm® Assembly, please refer to the [assembly implementation doc]().
 
 # 💡 Potential Future Filters
-A list of potential filters that can be implemented using Arm Assembly include:
+A list of potential filters that can be implemented using Arm® Assembly include:
 - Box Blur
 - Edge Detection
 - Sharpen
@@ -32,8 +32,11 @@ A list of potential filters that can be implemented using Arm Assembly include:
 
 # 📚 Helpful Resources
 Here are some useful resources to learn Arm Assembly:
-- [Link 1]()
-- [Link 2]()
+- [Introduction to Assembly Programming with ARM](https://youtube.com/playlist?list=PL2EF13wm-hWAlQe87UB2HV0SVhBXFpXbn&si=7WmrHMovHigU_1ax) by OliveStem
+- [Getting Started with Arm Assembly Language](https://developer.arm.com/documentation/107829/0201)
+- [Learn the architecture](https://developer.arm.com/documentation/102374/0102)
+- [List of all Arm instructions](https://developer.arm.com/documentation/ddi0602/2022-09)
+- [Neon Programmer Guide](https://developer.arm.com/documentation/102159/0400)
 
 # License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
